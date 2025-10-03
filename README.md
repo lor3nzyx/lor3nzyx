@@ -19,6 +19,6 @@ Welcome to my profile and feel free to explore my projects!
 #### 📫 Conect with me!
 
 <div>
-<a target='_blank' href="https://www.linkedin.com/in/pjjunio">
+<a target='_blank' href="https://www.linkedin.com/in/lorenzzo-barbosa">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
